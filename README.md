@@ -3,6 +3,8 @@ Projeto interdisciplinar em desenvolvimento no curso de Desenvolvimento de Siste
 
 O site disponibilizará informações gerais sobre transtornos alimentares, segurança alimentar, alimentação saudável e educação alimentar, dados sobre a situação do Brasil nesse cenário, receitas fáceis e saudáveis, artigos e documentos elaborados pela equipe sobre a problemática e detalhes sobre o time e os projetos em desenvolvimento sobre esse assunto.
 
+Além disso, o Questionário Saudável funciona como um complemento digital para um jogo de tabuleiro educativo desenvolvido pela equipe. No site, os usuários poderão acessar explicações, curiosidades e conteúdos que aprofundam os temas apresentados no jogo, ampliando a experiência de aprendizagem e reforçando os conceitos de forma interativa e acessível.
+
 # 🛠️ Funcionalidades do projeto
 - `Apresentar informações seguras`: o site exibe diversos dados e informações que foram averiguadas e divulgadas por especialistas da área da saúde e nutrição;
 - `Disponibizar artigos científicos`: o site disponilibizará diversos artigos ciéntificos de especialistas na área e da equipe responsável pelo projeto.
