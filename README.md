@@ -1,7 +1,3 @@
-<h4 align="center"> 
-	:construction:  PROJETO EM DESENVOLVIMENTO  :construction:
-</h4>
-
 # 🍎 Questionário Saudável
 Projeto interdisciplinar em desenvolvimento no curso de Desenvolvimento de Sistemas na ETEC de Taboão da Serra. Questionário saudável é um site que busca disseminar informações que melhorem a qualidade e o conhecimento geral da população sobre alimentação e tudo que a envolve.
 
@@ -12,7 +8,7 @@ O site disponibilizará informações gerais sobre transtornos alimentares, segu
 - `Disponibizar artigos científicos`: o site disponilibizará diversos artigos ciéntificos de especialistas na área e da equipe responsável pelo projeto.
 
 # 📖 Visual do projeto
-- Link para o vídeo de exibição do site: https://youtu.be/_Vir6_d3N2g?si=gxAFLw2t1G_Uvj4w
+- Link para o vídeo de exibição do site: https://youtu.be/3szh9PCgEo8
 
 # ✉️ Contato com a equipe
 - Email: `questionario.saudavel@gmail.com`
